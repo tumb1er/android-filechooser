@@ -1,0 +1,9 @@
+# Gradle files
+.gradle/
+gradle/
+build/
+bin/
+gen/
+.idea/
+.settings/
+*.iml
